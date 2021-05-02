@@ -1,5 +1,5 @@
-#All Thank to AungThiha i nhave jusst made acopy of this for my future reference and understanding
-#https://github.com/AungThiha
+# All Thank to AungThiha i nhave jusst made acopy of this for my future reference and understanding
+# https://github.com/AungThiha
 
 # FancyTable
 
