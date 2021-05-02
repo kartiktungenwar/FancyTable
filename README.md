@@ -1,4 +1,4 @@
-# All Thank to AungThiha i nhave jusst made acopy of this for my future reference and understanding
+# All Thank to AungThiha I have just made a copy of this for my future reference and understanding
 # https://github.com/AungThiha
 
 # FancyTable
